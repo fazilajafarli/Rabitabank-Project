@@ -5,7 +5,6 @@
 
 
 2. Activate environment:
- 	$ Set-ExecutionPolicy Unrestricted -Scope Process (on Windows)
 	$ .\env\Scripts\Activate
     
     
